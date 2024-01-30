@@ -1,0 +1,6 @@
+prueba\spring\hexagonal\HexagonalApplication.class
+prueba\spring\hexagonal\Application\Service\UsuarioServiceImp.class
+prueba\spring\hexagonal\Adapter\inweb\UsuarioController.class
+prueba\spring\hexagonal\Adapter\outpersistence\Usuariopersistence.class
+prueba\spring\hexagonal\Adapter\outpersistence\UsuarioRepositoryPersistence.class
+prueba\spring\hexagonal\Application\Port\in\UsuarioService.class
